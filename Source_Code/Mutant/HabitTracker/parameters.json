@@ -1,0 +1,16 @@
+{
+    "apkPath": "../HabitTracker/HabitTracker_v1.5.15_apkpure.com.apk",
+    "appName": "HabitTracker_v1.5.15_apkpure.com.apk",
+    "mutantsFolder": "./mutants", 
+    "operatorsDir": "./operators",
+    "multithreadExec": "true",
+    "extraPath": "./extra",
+    "selectionStrategy": "all",
+    "selectionParameters":{
+        "amountMutants":"50",
+        "perOperator":"false",
+        "confidenceLevel":"85",
+        "marginError":"10",
+        "baseAPKPath":"./"
+    }
+}
